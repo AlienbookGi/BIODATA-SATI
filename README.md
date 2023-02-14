@@ -1,3 +1,4 @@
 # BIODATA-SATI
 TUGAS SAF BIODATA SATI HTML </br>
-Link: AlienbookGi/BIODATA-SATI- 
+Link: https://github.com/AlienbookGi/BIODATA-SATI
+
